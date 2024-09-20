@@ -32,5 +32,10 @@ If Burp Suite shows:
 
 ```text
 entry.123456=name1&entry.1294434&entry.654321=name2
+```
+Take the numbers and replace that as the variables.
+```bash
+Any questions?
 
-\'\'\'
+Discord: chaose3
+```
