@@ -5,8 +5,8 @@ form_url = 'Insert link Here'
 
 # Form data captured from BurpSuite
 form_data = {
-    'entry.325547176': 'Elysse Champion',       # Selecting Elysse Champion
-    'entry.1013163851': 'Danny Winnerkrans',    # Selecting Danny Winnerkrans
+    'entry.325547176': 'Name variable',       # Name variable
+    'entry.1013163851': 'Name Variable',    # Name variable
     'entry.325547176_sentinel': '',             # Sentinel value (may be empty)
     'entry.1013163851_sentinel': '',            # Sentinel value (may be empty)
     'fvv': '1',                                 # fvv parameter from the proxy
